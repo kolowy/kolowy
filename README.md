@@ -13,7 +13,7 @@
 
 - Bot discord Chill :  
     [Invite](https://discord.com/oauth2/authorize?client_id=752812712165376083&permissions=8&scope=applications.commands%20bot)  
-    [join our Discord](https://discord.gg/c4RvJUCBEW)\n
+    [join our Discord](https://discord.gg/c4RvJUCBEW)
 
 - Create an IA
   
