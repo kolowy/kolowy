@@ -1,4 +1,4 @@
-## Hi, I’m @kolowy, 👋 
+# Hi, I’m @kolowy, 👋 
 
 - 👀 I’m interested in programation
 
@@ -8,26 +8,26 @@
 
 
 
-
-## Curent Projects
+-----------------
+⏳ Curent Projects
 
 - Bot discord Chill : 
-    (Invite)[https://discord.com/oauth2/authorize?client_id=752812712165376083&permissions=8&scope=applications.commands%20bot]
-    (join our Discord)[https://discord.gg/c4RvJUCBEW]
+    [Invite](https://discord.com/oauth2/authorize?client_id=752812712165376083&permissions=8&scope=applications.commands%20bot)
+    [join our Discord](https://discord.gg/c4RvJUCBEW)
 
 - Create an IA
 
 
 
-
-## Languages and Tools 🛠 : 
+-----------------
+🛠 Languages and Tools : 
 
 css3 html5 javascript linux nodejs
 
 
 
-
-## Background 🎓 :
+-----------------
+🎓 Background :
 
 - high school in France
 
