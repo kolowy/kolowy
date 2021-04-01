@@ -7,6 +7,8 @@
 - 💬 Ask me about Javascript, HTML and CSS
 
 
+
+
 ## Curent Projects
 
 - Bot discord Chill : 
@@ -14,11 +16,15 @@
     (join our Discord)[https://discord.gg/c4RvJUCBEW]
 
 - Create an IA
-- 
+
+
+
 
 ## Languages and Tools 🛠 : 
 
 css3 html5 javascript linux nodejs
+
+
 
 
 ## Background 🎓 :
