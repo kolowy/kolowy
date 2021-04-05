@@ -37,6 +37,7 @@ css3 html5 javascript linux nodejs unity3D
 -----------------
 💎 Old Project :
 
+- GameJam avec unity 3D : win (add economy for the game and a menu to purchase)
 - Discord bot : ImmoA (delete)
 - Discord bot : Azure (delete)
 - FPS 3D avec unity 3D
