@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in programation
 
-- 🌱 I’m currently learning JavaScript and IA
+- 🌱 I’m currently learning JavaScript, java and IA
 
 - 💬 Ask me about Javascript, HTML and CSS
   
@@ -17,6 +17,9 @@
     [join our Discord](https://discord.gg/c4RvJUCBEW)
 
 - Create an IA
+
+
+- Minecraft Plugin : Trade plugin in dev...
   
   
    
