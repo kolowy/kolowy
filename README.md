@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available on [https://github.com/kolowy/](https://github.com/kolowy/)
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
