@@ -18,7 +18,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kolowy&show_icons=true&locale=en&layout=compact" alt="kolowy" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kolowy&show_icons=true&locale=en" alt="kolowy" /></p>
+<!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kolowy&show_icons=true&locale=en" alt="kolowy" /></p>-->
    
 <!---
 kolowy/kolowy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
