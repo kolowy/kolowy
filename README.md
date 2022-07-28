@@ -33,7 +33,7 @@ I'm Kolowy, 18 years old, studying at EPITA, an engineering school.
    <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
    <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a>
-   <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ocaml/ocaml-icon.svg" alt="ocaml" width="40" height="40"/> </a>
+   <a href="https://ocaml.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ocaml/ocaml-icon.svg" alt="ocaml" width="40" height="40"/> </a>
 </p>
 
 
