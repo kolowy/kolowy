@@ -37,11 +37,10 @@ I'm Kolowy, 18 years old, studying at EPITA, an engineering school.
 </p>
 
 
-### 📊 Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kolowy&show_icons=true&locale=en&layout=compact&theme=radical)](https://github.com/kolowy/)
-
-<!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kolowy&show_icons=true&locale=en" alt="kolowy" /></p>-->
- <img src="https://komarev.com/ghpvc/?username=kolowy&label=Profile%20views&color=0e75b6&style=flat" alt="kolowy" />
+### 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=kolowy&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=kolowy&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kolowy&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <!---
 kolowy/kolowy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
