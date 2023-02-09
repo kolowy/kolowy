@@ -1,6 +1,6 @@
 ### 👋 Hi there
 
-I'm Kolowy, 18 years old, studying at EPITA, an engineering school.
+I'm Kolowy, 19 years old, studying at EPITA, an engineering school.
 
 ### 🔭 My projects
 
