@@ -1,6 +1,6 @@
 ### 👋 Hi there
 
-I'm Kolowy, 20 years old, studying at EPITA, an engineering school.
+I'm Paul Dufour, studying at EPITA, an engineering school.
 
 ### 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kolowy&theme=dark&hide_border=false)<br/>
